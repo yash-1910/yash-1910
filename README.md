@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tanay Gupta</h1>
+<h1 align="center">Hi 👋, Yashovardhan Singh</h1>
 <h3 align="center">A passionate Web Dev and AI/ML Enthusiast</h3>
 
-- 📫 How to reach me **tanay282004gupta@gmail.com**
+- 📫 How to reach me **ys6470@srmist.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
